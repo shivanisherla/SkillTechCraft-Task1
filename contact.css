@@ -1,0 +1,25 @@
+#one
+{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    margin-top: 70px;
+    line-height: 2.0;
+}
+button
+{
+    width: 150px;
+    height: 30px;
+    border-radius: 10px;
+    background-color: rgb(183, 113, 135);
+    border-color: burlywood;
+    margin-top: 50px;
+    margin-left: 80px;
+    /* background-color:lightgoldenrodyellow; */
+    color:white;
+    font-size:larger
+}
+body
+{
+    background-color: whitesmoke;
+}
